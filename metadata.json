@@ -1,0 +1,6 @@
+{
+  "name": "DubStudio",
+  "description": "AI Video Translation, Dubbing & Lip-Sync Localization Studio inspired by Captions",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
